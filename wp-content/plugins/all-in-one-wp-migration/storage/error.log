@@ -1,0 +1,3 @@
+Feb 22 2024 08:30:33
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/platinum_pools\/wp-content\/plugins\/simply-static\/src\/class-ss-query.php","line":397}
+
